@@ -15,7 +15,7 @@ You might also want to check out the [real-world Laravel example application](ht
 [ภาษาไทย](thai.md) (by [kongvut sangkla](https://github.com/kongvut))
 
 [বাংলা](bangla.md) (by [Anowar Hossain](https://github.com/AnowarCST))
-
+[日本語](japanese.md) (by [2bo](https://github.com/2bo))
 [فارسی](persian.md) (by [amirhossein baghaie](https://github.com/ohmydevops))
 
 [Português](https://github.com/jonaselan/laravel-best-practices) (by [jonaselan](https://github.com/jonaselan))
